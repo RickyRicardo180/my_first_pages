@@ -1,0 +1,27 @@
+body {
+  background-color: red;
+}
+text {
+  text-align: center;
+  font-color: black;
+}
+h1 {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+}
+.large-image{
+  width: 500px;
+  padding: 50px;
+  position: center;
+}
+.medium-image{
+  width: 250px;
+  padding: 10px;
+  margin: 5px;
+  position: center;
+}

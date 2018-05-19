@@ -1,0 +1,154 @@
+<!---
+      Plans for this page.
+Rather than having a picture heavy page I will go for thumbnails with embedded links hoping to make it look better and not overly picture heavy, eventually I would like to build it up to multiple pages but do not know if codepen supports this if not I will have to use this as a tool for testing but will have the actual content on my own page.
+     /--->
+   <style>
+   body {
+  background-color: green;
+}
+text {
+  text-align: center;
+  font-color: black;
+}
+h1 {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+}
+.large-image{
+  width: 500px;
+  padding: 50px;
+  position: center;
+}
+.medium-image{
+  width: 250px;
+  padding: 10px;
+  margin: 5px;
+  position: center;
+}
+  </style>
+     
+<body>
+<div class="container-fluid">
+  <h1>
+    My Eunos Roadster
+  </h1>
+  <p>
+    This page is a tribute to my MX5 this is a picture of how it is today.
+    <p>
+      <img Class="large-image row" src="https://i.imgur.com/rcozZbpl.jpg">
+
+      </a>
+    </p>
+  </p>
+  <p> but before I go into my MX5 I thought a little bit of history on the MX5 was warranted this is just from what I remmber from what I have read and checking dates online I will not be quoting anyone or any websites. The MX5 as it is known in the UK is
+    known as the Miata in the US and Eunos Roadster in Japan, mine is actually a Eunos Roadster built in 1989 and imported to the UK in 2002 this is actually quite a common thing as the Japanese cars tend to have a lot less rust than UK cars of equal
+    age, I have no idea what the real reason for this but have often head people say it is because we grit our roads with salt in the winter, or we have sea air (because Japan must have no coastline..... anyway), or that it rains a lot here, and lots
+    of other theories personally I put it down to lack of care for the car in general. The MX5 was first built in 1989 and is this year onto its 4th edition, in the UK the older ones have seen popularity over the last couple of years by young people looking
+    for a cheap drift car or ex VW owners that lower them to about 1/2 an inch off the ground then drive around at really really low speeds, others like them for the easy maintenance and modability and of course having a convertible that is on the cusp
+    of being a classic car.
+    <p>
+      as you can see the boot is not huge but I have managed to fit enough in there to get me around Europe for 2 weeks
+<br>
+      <a><img Class="medium-image" src="https://i.imgur.com/ansspOT.jpg" alt="my car2">
+  </a>
+    </p>
+    <p>
+      This is the car when i bought it it had big 17" wheels, a fibreglass bomex front bumper, mazdaspeed (I think) spoiler, little chrome bullet style wing mirrors, and Spax adustable shocks and lowering springs<br>
+      <a><img Class="medium-image row" src="https://i.imgur.com/sZDqusv.jpg">
+    <img Class="medium-image row" src="https://i.imgur.com/ogjO07L.jpg">
+    <img Class="medium-image row" src="https://i.imgur.com/vxa3i7i.jpg">
+    <img Class="medium-image row" src="https://i.imgur.com/c35DBWp.jpg">
+    </a>
+    </p>
+    <p>
+      the bumper was a poor choice for city life and daily use and broke a few times I repaired it and had cars hit mine<br>
+      <a><img Class="medium-image" src="https://i.imgur.com/G5gIrgd.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/22tAWNc.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/uiybzoo.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/K07reL3.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/OYFEdtt.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/UVwnlCB.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/KSRPd43.jpg">
+    <img Class="medium-image" src="https://i.imgur.com/wLqe2ah.jpg">
+    <img Class="medium-image" src="">
+    </a>
+    </p>
+    <p>
+      I had a little crash<br>
+      <img Class="medium-image" src="https://i.imgur.com/cHNIl21.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/4ttWsRV.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/zOvmDCq.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/2HhyYyl.jpg">
+    </p>
+    <p>
+      I changed the wheels and again and again, centre caps ave been found<br>
+      <img Class="medium-image" src="https://i.imgur.com/40KOk6K.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/RzgGSfZ.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/DvDNXyv.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/4zb3vsA.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/N5sNiXG.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/W2jZT0D.jpg">
+      <img Class="medium-image" src="">
+    </p>
+    <p>
+      I removed the spoiler<br>
+      <img Class="medium-image" src="https://i.imgur.com/.jpg">
+    </p>
+    <p>
+      I changed the wing mirrors<br>
+      <img Class="medium-image" src="https://i.imgur.com/0cOlhTW.jpg">
+    </p>
+    <p>
+      I changed the dials<br>
+      <img Class="medium-image" src="https://i.imgur.com/I4CJexb.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/9kjfssu.jpg">
+    </p>
+    <p>
+      I fitted a different radiator<br>
+      <img Class="medium-image" src="https://i.imgur.com/ewAnKVe.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/ExRMa1j.jpg">
+    </p>
+    <p>
+      I changed the exhaust<br>
+      <img Class="medium-image" src="https://i.imgur.com/Iphy0vj.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/3uUUIB0.jpg">
+    </p>
+    <p>
+      i fitted different suspension<br>
+      <img Class="medium-image" src="https://i.imgur.com/n6xj0Nk.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/nQwGZa9.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/NbdtX3v.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/fn9fVyt.jpg">
+    </p>
+    <p>
+      I fitted a turbo and intercooler<br>
+      <img Class="medium-image" src="https://i.imgur.com/YensGkj.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/yc0sInp.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/0uatzZp.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/r4hrb6v.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/SJDNWxa.jpg">
+      <img Class="medium-image" src="https://i.imgur.com/iaPAHTY.jpg">
+    </p>
+    <p>
+      I removed the turbo</p>
+    <p>
+      <img Class="medium-image" src="https://i.imgur.com/AaZ70T5.jpg">
+    </p>
+    <p>
+      i will fit itbs
+      <img Class="medium-image" src="https://i.imgur.com/uRCq15V.jpg">
+    </p>
+    <p>
+      I had it resprayed, which I feel was the biggest waste of money but at least its not covered in little scratches only I see as I am the only person who sees it often enough
+    </p>
+    <p>
+      I found a group for performance mods specifically forced induction this group was called <a href="http://www.miataturbo.net">miataturbo</a>, performance mods and social caled <a href="http://www.mx5nutz.com">MX5nutz</a>, moved social group to one
+      that was more laidback called <a href="https://www.combustionpunks.co.uk">combustionpunks</a>, learnt the art of waiting for parts at the right price, sourcing, researching, and dealing with internet trolls and keyboard warriors</p>
+    <p> there are pros and cons to owning an MX5 I have listed a few below
+</div>
+<body>
