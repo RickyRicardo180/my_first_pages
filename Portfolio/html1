@@ -1,0 +1,230 @@
+<!-- just a dummy page -->
+<!-- layout
+intro
+buzzwords
+picture
+buttons - jump to page sections
+sections -  profile -
+            portfolio - thumbnail images
+            contact - social media links, clickable submit buttons
+
+-->
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css' />
+<style type="text/css">
+  h1 {
+    background-color: ;
+    font-family: lobster;
+    color: blue;
+  }
+
+  #profilepic {
+    width: 500px;
+    height: 500px;
+    border-radius: 70%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .fbbutton {
+    background-color: #0D71C4;
+    color: white;
+  }
+
+  .twbutton {
+    background-color: #6ABAFD;
+    color: white;
+  }
+
+  .libutton {
+    background-color: #3391E0;
+    color: white;
+  }
+
+  body {
+    margin: 20px;
+  }
+
+  .imgboxes {
+    border-radius: 10px;
+    border-style: solid;
+    height: 300px;
+
+
+  }
+
+  #img1 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
+    margin: 20px:
+  }
+
+  #img2 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+    margin: 20px:
+  }
+
+  #img3 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: pink;
+    margin: 20px:
+  }
+
+  #img4 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    margin: 20px:
+  }
+
+  #img5 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    margin: 20px:
+  }
+
+  #img6 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+    margin: 20px:
+  }
+
+  .projectdiv {
+    background-color: grey;
+  }
+
+<style type="text/css">
+.form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    width: 500px;
+    padding: 30px;
+    background: #FFFFFF;
+    margin: 50px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+
+}
+.form-style-8 h2{
+    background: #4D4D4D;
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #797979;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 20px;
+    margin: -30px -30px 30px -30px;
+}
+.form-style-8 input[type="text"],
+.form-style-8 input[type="date"],
+.form-style-8 input[type="datetime"],
+.form-style-8 input[type="email"],
+.form-style-8 input[type="number"],
+.form-style-8 input[type="search"],
+.form-style-8 input[type="time"],
+.form-style-8 input[type="url"],
+.form-style-8 input[type="password"],
+.form-style-8 textarea,
+.form-style-8 select
+{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+.form-style-8 textarea{
+    resize:none;
+    overflow: hidden;
+}
+.form-style-8 input[type="button"],
+.form-style-8 input[type="submit"]{
+    -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    box-shadow: inset 0px 1px 0px 0px #45D6D6;
+    background-color: #2CBBBB;
+    border: 1px solid #27A0A0;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.form-style-8 input[type="button"]:hover,
+.form-style-8 input[type="submit"]:hover {
+    background:linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
+    background-color:#34CACA;
+}
+</style>
+
+<script type="text/javascript">
+//auto expand textarea
+function adjust_textarea(h) {
+    h.style.height = "20px";
+    h.style.height = (h.scrollHeight)+"px";
+}
+</script>
+<body>
+  <div>
+    <h1 class="text-center"><br><br> Just learning for fun. I am here to learn to code and that is all, any links below will not be functional. <br>As this is supposed to be a portfolio page however I may as well fill it in a bit, I started coding<br> 2 years ago during a lull
+      in another course I was doing as that picked back up the<br> coding went on a back burner for 2 years and now the other course<br> is complete I have have started back up in earnest so hope <br>to move along quite quickly.<br> <br>Ricardo
+
+      <p>
+        <p>
+          <img id=profilepic src="https://i.imgur.com/tT4dBoV.jpg">
+    </h1>
+    <form action="/ " method="post" class="allbtn row">
+      <button class="fbbutton row btn col-xs-4"><i class="fa fa-facebook"></i>
+<a href="http://www.facebook.com "> <!-- "facebook logo" --> </a></button>
+      <button class="twbutton row btn col-xs-4"><i class="fa fa-twitter"></i>
+<a href="http://www.Twitter.com "><!-- "Twitter logo" --> </a></button>
+      <button class="libutton row btn col-xs-4"><i class="fa fa-linkedin"></i>
+<a href="http://www.linkedin.com "><!-- "Linkedin logo" --> </a></button>
+    </form>
+  </div>
+  <div>
+    <!-- Sample projects -->
+
+    <h3>Here are some examples of projects I have worked on they and I were certified mediocre by me but as I am just starting have upgraded to awesome</h3>
+    <div class="projectdiv row container-fluid">
+      <img style="margin:20px" id="img1" class="imgboxes col-xs-5" href="https://codepen.io/RickyRicardo180/pen/ZpyQGB" src="https://i.imgur.com/Rh6snP5.png" alt="link to mx5 pen"></img>
+      <img style="margin:20px" id="img2" class="imgboxes col-xs-5" href="#" src="" alt="blank 1"></img>
+      <img style="margin:20px" id="img3" class="imgboxes col-xs-5" href="#" src="" alt="blank 2"></img>
+      <img style="margin:20px" id="img4" class="imgboxes col-xs-5" href="#" src="" alt="blank 3"></img>
+      <img style="margin:20px" id="img5" class="imgboxes col-xs-5" href="#" src="" alt="blank 4"></img>
+      <img style="margin:20px" id="img6" class="imgboxes col-xs-5" href="#" src="" alt="blank 5"></img>
+
+    </div><br>
+
+
+
+
+<div class="form-style-8"><!-- contact form -->
+  <h2>Login to your account</h2>
+  <form>
+    <input type="text" name="field1" placeholder="Full Name" />
+    <input type="email" name="field2" placeholder="Email" />
+    <textarea placeholder="Message" onkeyup="adjust_textarea(this)"></textarea>
+    <input type="submit" value="Send Message" />
+  </form>
+</div>
+</body>
